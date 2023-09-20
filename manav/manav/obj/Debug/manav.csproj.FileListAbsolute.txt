@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\10A BİL. deniz\manav\manav\bin\Debug\manav.exe.config
+C:\Users\PC\Desktop\10A BİL. deniz\manav\manav\bin\Debug\manav.exe
+C:\Users\PC\Desktop\10A BİL. deniz\manav\manav\bin\Debug\manav.pdb
+C:\Users\PC\Desktop\10A BİL. deniz\manav\manav\obj\Debug\manav.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\10A BİL. deniz\manav\manav\obj\Debug\manav.Form1.resources
+C:\Users\PC\Desktop\10A BİL. deniz\manav\manav\obj\Debug\manav.Properties.Resources.resources
+C:\Users\PC\Desktop\10A BİL. deniz\manav\manav\obj\Debug\manav.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\10A BİL. deniz\manav\manav\obj\Debug\manav.exe
+C:\Users\PC\Desktop\10A BİL. deniz\manav\manav\obj\Debug\manav.pdb
