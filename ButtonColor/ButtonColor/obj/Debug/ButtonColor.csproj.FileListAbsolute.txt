@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\10A BİL. deniz\ButtonColor\ButtonColor\bin\Debug\ButtonColor.exe.config
+C:\Users\PC\Desktop\10A BİL. deniz\ButtonColor\ButtonColor\obj\Debug\ButtonColor.Form1.resources
+C:\Users\PC\Desktop\10A BİL. deniz\ButtonColor\ButtonColor\obj\Debug\ButtonColor.Properties.Resources.resources
+C:\Users\PC\Desktop\10A BİL. deniz\ButtonColor\ButtonColor\obj\Debug\ButtonColor.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\10A BİL. deniz\ButtonColor\ButtonColor\bin\Debug\ButtonColor.exe
+C:\Users\PC\Desktop\10A BİL. deniz\ButtonColor\ButtonColor\bin\Debug\ButtonColor.pdb
+C:\Users\PC\Desktop\10A BİL. deniz\ButtonColor\ButtonColor\obj\Debug\ButtonColor.exe
+C:\Users\PC\Desktop\10A BİL. deniz\ButtonColor\ButtonColor\obj\Debug\ButtonColor.pdb
