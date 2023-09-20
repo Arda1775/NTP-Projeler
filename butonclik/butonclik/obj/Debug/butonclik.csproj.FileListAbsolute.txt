@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\10A BİL. deniz\butonclik\butonclik\bin\Debug\butonclik.exe.config
+C:\Users\PC\Desktop\10A BİL. deniz\butonclik\butonclik\obj\Debug\butonclik.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\10A BİL. deniz\butonclik\butonclik\obj\Debug\butonclik.Form1.resources
+C:\Users\PC\Desktop\10A BİL. deniz\butonclik\butonclik\obj\Debug\butonclik.Properties.Resources.resources
+C:\Users\PC\Desktop\10A BİL. deniz\butonclik\butonclik\obj\Debug\butonclik.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\10A BİL. deniz\butonclik\butonclik\bin\Debug\butonclik.exe
+C:\Users\PC\Desktop\10A BİL. deniz\butonclik\butonclik\bin\Debug\butonclik.pdb
+C:\Users\PC\Desktop\10A BİL. deniz\butonclik\butonclik\obj\Debug\butonclik.exe
+C:\Users\PC\Desktop\10A BİL. deniz\butonclik\butonclik\obj\Debug\butonclik.pdb
