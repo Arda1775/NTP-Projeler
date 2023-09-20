@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\10A BİL. deniz\MouseHover\MouseHover\bin\Debug\MouseHover.exe.config
+C:\Users\PC\Desktop\10A BİL. deniz\MouseHover\MouseHover\bin\Debug\MouseHover.exe
+C:\Users\PC\Desktop\10A BİL. deniz\MouseHover\MouseHover\bin\Debug\MouseHover.pdb
+C:\Users\PC\Desktop\10A BİL. deniz\MouseHover\MouseHover\obj\Debug\MouseHover.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\10A BİL. deniz\MouseHover\MouseHover\obj\Debug\MouseHover.Form1.resources
+C:\Users\PC\Desktop\10A BİL. deniz\MouseHover\MouseHover\obj\Debug\MouseHover.Properties.Resources.resources
+C:\Users\PC\Desktop\10A BİL. deniz\MouseHover\MouseHover\obj\Debug\MouseHover.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\10A BİL. deniz\MouseHover\MouseHover\obj\Debug\MouseHover.exe
+C:\Users\PC\Desktop\10A BİL. deniz\MouseHover\MouseHover\obj\Debug\MouseHover.pdb
