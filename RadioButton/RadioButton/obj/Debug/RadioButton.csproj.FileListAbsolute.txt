@@ -1,9 +1,0 @@
-C:\Users\PC\Desktop\10A BİL. deniz\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
-C:\Users\PC\Desktop\10A BİL. deniz\RadioButton\RadioButton\bin\Debug\RadioButton.exe
-C:\Users\PC\Desktop\10A BİL. deniz\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
-C:\Users\PC\Desktop\10A BİL. deniz\RadioButton\RadioButton\obj\Debug\RadioButton.csprojResolveAssemblyReference.cache
-C:\Users\PC\Desktop\10A BİL. deniz\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
-C:\Users\PC\Desktop\10A BİL. deniz\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
-C:\Users\PC\Desktop\10A BİL. deniz\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.Cache
-C:\Users\PC\Desktop\10A BİL. deniz\RadioButton\RadioButton\obj\Debug\RadioButton.exe
-C:\Users\PC\Desktop\10A BİL. deniz\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
