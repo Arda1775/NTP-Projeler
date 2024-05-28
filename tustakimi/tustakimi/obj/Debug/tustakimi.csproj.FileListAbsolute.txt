@@ -1,9 +1,0 @@
-C:\Users\PC\Desktop\10A BİL. deniz\tustakimi\tustakimi\bin\Debug\tustakimi.exe.config
-C:\Users\PC\Desktop\10A BİL. deniz\tustakimi\tustakimi\bin\Debug\tustakimi.exe
-C:\Users\PC\Desktop\10A BİL. deniz\tustakimi\tustakimi\bin\Debug\tustakimi.pdb
-C:\Users\PC\Desktop\10A BİL. deniz\tustakimi\tustakimi\obj\Debug\tustakimi.csprojResolveAssemblyReference.cache
-C:\Users\PC\Desktop\10A BİL. deniz\tustakimi\tustakimi\obj\Debug\tustakimi.Form1.resources
-C:\Users\PC\Desktop\10A BİL. deniz\tustakimi\tustakimi\obj\Debug\tustakimi.Properties.Resources.resources
-C:\Users\PC\Desktop\10A BİL. deniz\tustakimi\tustakimi\obj\Debug\tustakimi.csproj.GenerateResource.Cache
-C:\Users\PC\Desktop\10A BİL. deniz\tustakimi\tustakimi\obj\Debug\tustakimi.exe
-C:\Users\PC\Desktop\10A BİL. deniz\tustakimi\tustakimi\obj\Debug\tustakimi.pdb
