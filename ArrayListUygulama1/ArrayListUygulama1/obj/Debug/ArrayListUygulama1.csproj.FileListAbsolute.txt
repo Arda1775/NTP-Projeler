@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama1\ArrayListUygulama1\bin\Debug\ArrayListUygulama1.exe.config
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama1\ArrayListUygulama1\bin\Debug\ArrayListUygulama1.exe
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama1\ArrayListUygulama1\bin\Debug\ArrayListUygulama1.pdb
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama1\ArrayListUygulama1\obj\Debug\ArrayListUygulama1.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama1\ArrayListUygulama1\obj\Debug\ArrayListUygulama1.Form1.resources
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama1\ArrayListUygulama1\obj\Debug\ArrayListUygulama1.Properties.Resources.resources
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama1\ArrayListUygulama1\obj\Debug\ArrayListUygulama1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama1\ArrayListUygulama1\obj\Debug\ArrayListUygulama1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama1\ArrayListUygulama1\obj\Debug\ArrayListUygulama1.exe
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama1\ArrayListUygulama1\obj\Debug\ArrayListUygulama1.pdb
+G:\projeler\ArrayListUygulama1\ArrayListUygulama1\bin\Debug\ArrayListUygulama1.exe.config
+G:\projeler\ArrayListUygulama1\ArrayListUygulama1\obj\Debug\ArrayListUygulama1.exe
+G:\projeler\ArrayListUygulama1\ArrayListUygulama1\obj\Debug\ArrayListUygulama1.pdb

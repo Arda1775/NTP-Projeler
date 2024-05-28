@@ -1,0 +1,22 @@
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama2\ArrayListUygulama2\bin\Debug\ArrayListUygulama2.exe.config
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama2\ArrayListUygulama2\bin\Debug\ArrayListUygulama2.exe
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama2\ArrayListUygulama2\bin\Debug\ArrayListUygulama2.pdb
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.Form1.resources
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.Properties.Resources.resources
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.exe
+C:\Users\USER\Desktop\Deniz Arda NTP\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.pdb
+G:\projeler\ArrayListUygulama2\ArrayListUygulama2\bin\Debug\ArrayListUygulama2.exe.config
+G:\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.exe
+G:\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.pdb
+G:\projeler\ArrayListUygulama2\ArrayListUygulama2\bin\Debug\ArrayListUygulama2.exe
+G:\projeler\ArrayListUygulama2\ArrayListUygulama2\bin\Debug\ArrayListUygulama2.pdb
+G:\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.csprojResolveAssemblyReference.cache
+G:\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.Form1.resources
+G:\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.Properties.Resources.resources
+G:\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.csproj.GenerateResource.Cache
+H:\projeler\ArrayListUygulama2\ArrayListUygulama2\bin\Debug\ArrayListUygulama2.exe.config
+H:\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.exe
+H:\projeler\ArrayListUygulama2\ArrayListUygulama2\obj\Debug\ArrayListUygulama2.pdb
