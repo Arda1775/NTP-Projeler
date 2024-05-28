@@ -1,9 +1,0 @@
-G:\projeler\Exception\AccesViolationException\AccesViolationException\bin\Debug\AccesViolationException.exe.config
-G:\projeler\Exception\AccesViolationException\AccesViolationException\obj\Debug\AccesViolationException.csprojResolveAssemblyReference.cache
-G:\projeler\Exception\AccesViolationException\AccesViolationException\obj\Debug\AccesViolationException.Form1.resources
-G:\projeler\Exception\AccesViolationException\AccesViolationException\obj\Debug\AccesViolationException.Properties.Resources.resources
-G:\projeler\Exception\AccesViolationException\AccesViolationException\obj\Debug\AccesViolationException.csproj.GenerateResource.Cache
-G:\projeler\Exception\AccesViolationException\AccesViolationException\bin\Debug\AccesViolationException.exe
-G:\projeler\Exception\AccesViolationException\AccesViolationException\bin\Debug\AccesViolationException.pdb
-G:\projeler\Exception\AccesViolationException\AccesViolationException\obj\Debug\AccesViolationException.exe
-G:\projeler\Exception\AccesViolationException\AccesViolationException\obj\Debug\AccesViolationException.pdb
