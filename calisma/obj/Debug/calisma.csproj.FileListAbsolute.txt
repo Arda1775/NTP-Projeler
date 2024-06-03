@@ -1,0 +1,10 @@
+C:\Users\Ogrenci1\Desktop\ntp\calisma\calisma\bin\Debug\calisma.exe.config
+C:\Users\Ogrenci1\Desktop\ntp\calisma\calisma\bin\Debug\calisma.exe
+C:\Users\Ogrenci1\Desktop\ntp\calisma\calisma\bin\Debug\calisma.pdb
+C:\Users\Ogrenci1\Desktop\ntp\calisma\calisma\obj\Debug\calisma.csprojAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\ntp\calisma\calisma\obj\Debug\calisma.Form1.resources
+C:\Users\Ogrenci1\Desktop\ntp\calisma\calisma\obj\Debug\calisma.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\ntp\calisma\calisma\obj\Debug\calisma.csproj.GenerateResource.cache
+C:\Users\Ogrenci1\Desktop\ntp\calisma\calisma\obj\Debug\calisma.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci1\Desktop\ntp\calisma\calisma\obj\Debug\calisma.exe
+C:\Users\Ogrenci1\Desktop\ntp\calisma\calisma\obj\Debug\calisma.pdb
