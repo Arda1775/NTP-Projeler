@@ -1,0 +1,6 @@
+G:\projeler\HashtableKoleksiyonu\HashtableKoleksiyonu\bin\Debug\HashtableKoleksiyonu.exe.config
+G:\projeler\HashtableKoleksiyonu\HashtableKoleksiyonu\bin\Debug\HashtableKoleksiyonu.exe
+G:\projeler\HashtableKoleksiyonu\HashtableKoleksiyonu\bin\Debug\HashtableKoleksiyonu.pdb
+G:\projeler\HashtableKoleksiyonu\HashtableKoleksiyonu\obj\Debug\HashtableKoleksiyonu.csprojResolveAssemblyReference.cache
+G:\projeler\HashtableKoleksiyonu\HashtableKoleksiyonu\obj\Debug\HashtableKoleksiyonu.exe
+G:\projeler\HashtableKoleksiyonu\HashtableKoleksiyonu\obj\Debug\HashtableKoleksiyonu.pdb
