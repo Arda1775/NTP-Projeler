@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\10A bil.Deniz Arda\sınıfgecme\sınıfgecme\bin\Debug\sınıfgecme.exe.config
+C:\Users\PC\Desktop\10A bil.Deniz Arda\sınıfgecme\sınıfgecme\obj\Debug\sınıfgecme.Form1.resources
+C:\Users\PC\Desktop\10A bil.Deniz Arda\sınıfgecme\sınıfgecme\obj\Debug\sınıfgecme.Properties.Resources.resources
+C:\Users\PC\Desktop\10A bil.Deniz Arda\sınıfgecme\sınıfgecme\obj\Debug\sınıfgecme.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\10A bil.Deniz Arda\sınıfgecme\sınıfgecme\bin\Debug\sınıfgecme.exe
+C:\Users\PC\Desktop\10A bil.Deniz Arda\sınıfgecme\sınıfgecme\bin\Debug\sınıfgecme.pdb
+C:\Users\PC\Desktop\10A bil.Deniz Arda\sınıfgecme\sınıfgecme\obj\Debug\sınıfgecme.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\10A bil.Deniz Arda\sınıfgecme\sınıfgecme\obj\Debug\sınıfgecme.exe
+C:\Users\PC\Desktop\10A bil.Deniz Arda\sınıfgecme\sınıfgecme\obj\Debug\sınıfgecme.pdb
+G:\sınıfgecme\sınıfgecme\bin\Debug\sınıfgecme.exe.config
+G:\sınıfgecme\sınıfgecme\obj\Debug\sınıfgecme.exe
+G:\sınıfgecme\sınıfgecme\obj\Debug\sınıfgecme.pdb
+G:\projeler\sınıfgecme\sınıfgecme\bin\Debug\sınıfgecme.exe.config
+G:\projeler\sınıfgecme\sınıfgecme\obj\Debug\sınıfgecme.exe
+G:\projeler\sınıfgecme\sınıfgecme\obj\Debug\sınıfgecme.pdb
