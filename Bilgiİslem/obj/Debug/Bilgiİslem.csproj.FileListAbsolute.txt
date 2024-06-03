@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\calisma\Bilgiİslem\Bilgiİslem\bin\Debug\Bilgiİslem.exe.config
+C:\Users\PC\Desktop\calisma\Bilgiİslem\Bilgiİslem\bin\Debug\Bilgiİslem.exe
+C:\Users\PC\Desktop\calisma\Bilgiİslem\Bilgiİslem\bin\Debug\Bilgiİslem.pdb
+C:\Users\PC\Desktop\calisma\Bilgiİslem\Bilgiİslem\obj\Debug\Bilgiİslem.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\calisma\Bilgiİslem\Bilgiİslem\obj\Debug\Bilgiİslem.Form1.resources
+C:\Users\PC\Desktop\calisma\Bilgiİslem\Bilgiİslem\obj\Debug\Bilgiİslem.Properties.Resources.resources
+C:\Users\PC\Desktop\calisma\Bilgiİslem\Bilgiİslem\obj\Debug\Bilgiİslem.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\calisma\Bilgiİslem\Bilgiİslem\obj\Debug\Bilgiİslem.exe
+C:\Users\PC\Desktop\calisma\Bilgiİslem\Bilgiİslem\obj\Debug\Bilgiİslem.pdb
+G:\projeler\Bilgiİslem\Bilgiİslem\bin\Debug\Bilgiİslem.exe.config
+G:\projeler\Bilgiİslem\Bilgiİslem\obj\Debug\Bilgiİslem.exe
+G:\projeler\Bilgiİslem\Bilgiİslem\obj\Debug\Bilgiİslem.pdb
