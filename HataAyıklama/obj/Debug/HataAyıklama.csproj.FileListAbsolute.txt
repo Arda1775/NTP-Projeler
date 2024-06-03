@@ -1,0 +1,9 @@
+G:\projeler\HataAyıklama\HataAyıklama\bin\Debug\HataAyıklama.exe.config
+G:\projeler\HataAyıklama\HataAyıklama\bin\Debug\HataAyıklama.exe
+G:\projeler\HataAyıklama\HataAyıklama\bin\Debug\HataAyıklama.pdb
+G:\projeler\HataAyıklama\HataAyıklama\obj\Debug\HataAyıklama.csprojResolveAssemblyReference.cache
+G:\projeler\HataAyıklama\HataAyıklama\obj\Debug\HataAyıklama.Form1.resources
+G:\projeler\HataAyıklama\HataAyıklama\obj\Debug\HataAyıklama.Properties.Resources.resources
+G:\projeler\HataAyıklama\HataAyıklama\obj\Debug\HataAyıklama.csproj.GenerateResource.Cache
+G:\projeler\HataAyıklama\HataAyıklama\obj\Debug\HataAyıklama.exe
+G:\projeler\HataAyıklama\HataAyıklama\obj\Debug\HataAyıklama.pdb

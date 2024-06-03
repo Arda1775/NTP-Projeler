@@ -1,0 +1,5 @@
+G:\projeler\hesapMakinesi+ProggesBar\hesapMakinesi+ProggesBar\bin\Debug\hesapMakinesi+ProggesBar.exe.config
+G:\projeler\hesapMakinesi+ProggesBar\hesapMakinesi+ProggesBar\obj\Debug\hesapMakinesi+ProggesBar.csprojResolveAssemblyReference.cache
+G:\projeler\hesapMakinesi+ProggesBar\hesapMakinesi+ProggesBar\obj\Debug\hesapMakinesi_ProggesBar.Form1.resources
+G:\projeler\hesapMakinesi+ProggesBar\hesapMakinesi+ProggesBar\obj\Debug\hesapMakinesi_ProggesBar.Properties.Resources.resources
+G:\projeler\hesapMakinesi+ProggesBar\hesapMakinesi+ProggesBar\obj\Debug\hesapMakinesi+ProggesBar.csproj.GenerateResource.Cache
