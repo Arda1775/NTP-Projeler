@@ -1,0 +1,9 @@
+G:\projeler\StackUygulaması\StackUygulaması\bin\Debug\StackUygulaması.exe.config
+G:\projeler\StackUygulaması\StackUygulaması\bin\Debug\StackUygulaması.exe
+G:\projeler\StackUygulaması\StackUygulaması\bin\Debug\StackUygulaması.pdb
+G:\projeler\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.csprojResolveAssemblyReference.cache
+G:\projeler\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.Form1.resources
+G:\projeler\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.Properties.Resources.resources
+G:\projeler\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.csproj.GenerateResource.Cache
+G:\projeler\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.exe
+G:\projeler\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.pdb

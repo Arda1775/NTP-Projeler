@@ -1,0 +1,6 @@
+G:\projeler\SortedListKoleksiyonu\SortedListKoleksiyonu\bin\Debug\SortedListKoleksiyonu.exe.config
+G:\projeler\SortedListKoleksiyonu\SortedListKoleksiyonu\bin\Debug\SortedListKoleksiyonu.exe
+G:\projeler\SortedListKoleksiyonu\SortedListKoleksiyonu\bin\Debug\SortedListKoleksiyonu.pdb
+G:\projeler\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.csprojResolveAssemblyReference.cache
+G:\projeler\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.exe
+G:\projeler\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.pdb

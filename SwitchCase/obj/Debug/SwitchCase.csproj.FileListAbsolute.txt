@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\calisma\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\PC\Desktop\calisma\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\PC\Desktop\calisma\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\PC\Desktop\calisma\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\calisma\SwitchCase\SwitchCase\obj\Debug\SwitchCase.Form1.resources
+C:\Users\PC\Desktop\calisma\SwitchCase\SwitchCase\obj\Debug\SwitchCase.Properties.Resources.resources
+C:\Users\PC\Desktop\calisma\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\calisma\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\PC\Desktop\calisma\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb
