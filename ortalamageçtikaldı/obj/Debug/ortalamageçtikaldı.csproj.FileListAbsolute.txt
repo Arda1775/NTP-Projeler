@@ -1,0 +1,13 @@
+C:\Users\Ogrenci1\Desktop\ntp\ortalamageçtikaldı\ortalamageçtikaldı\obj\Debug\ortalamageçtikaldı.csprojAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\ntp\ortalamageçtikaldı\ortalamageçtikaldı\obj\Debug\ortalamageçtikaldı.Form1.resources
+C:\Users\Ogrenci1\Desktop\ntp\ortalamageçtikaldı\ortalamageçtikaldı\obj\Debug\ortalamageçtikaldı.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\ntp\ortalamageçtikaldı\ortalamageçtikaldı\obj\Debug\ortalamageçtikaldı.csproj.GenerateResource.cache
+C:\Users\Ogrenci1\Desktop\ntp\ortalamageçtikaldı\ortalamageçtikaldı\obj\Debug\ortalamageçtikaldı.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci1\Desktop\ntp\ortalamageçtikaldı\ortalamageçtikaldı\bin\Debug\ortalamageçtikaldı.exe.config
+C:\Users\Ogrenci1\Desktop\ntp\ortalamageçtikaldı\ortalamageçtikaldı\bin\Debug\ortalamageçtikaldı.exe
+C:\Users\Ogrenci1\Desktop\ntp\ortalamageçtikaldı\ortalamageçtikaldı\bin\Debug\ortalamageçtikaldı.pdb
+C:\Users\Ogrenci1\Desktop\ntp\ortalamageçtikaldı\ortalamageçtikaldı\obj\Debug\ortalamageçtikaldı.exe
+C:\Users\Ogrenci1\Desktop\ntp\ortalamageçtikaldı\ortalamageçtikaldı\obj\Debug\ortalamageçtikaldı.pdb
+G:\projeler\ortalamageçtikaldı\ortalamageçtikaldı\bin\Debug\ortalamageçtikaldı.exe.config
+G:\projeler\ortalamageçtikaldı\ortalamageçtikaldı\obj\Debug\ortalamageçtikaldı.exe
+G:\projeler\ortalamageçtikaldı\ortalamageçtikaldı\obj\Debug\ortalamageçtikaldı.pdb

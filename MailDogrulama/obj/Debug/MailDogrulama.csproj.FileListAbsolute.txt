@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\10A bil.Deniz Arda\MailDogrulama\MailDogrulama\bin\Debug\MailDogrulama.exe.config
+C:\Users\PC\Desktop\10A bil.Deniz Arda\MailDogrulama\MailDogrulama\bin\Debug\MailDogrulama.exe
+C:\Users\PC\Desktop\10A bil.Deniz Arda\MailDogrulama\MailDogrulama\bin\Debug\MailDogrulama.pdb
+C:\Users\PC\Desktop\10A bil.Deniz Arda\MailDogrulama\MailDogrulama\obj\Debug\MailDogrulama.Form1.resources
+C:\Users\PC\Desktop\10A bil.Deniz Arda\MailDogrulama\MailDogrulama\obj\Debug\MailDogrulama.Properties.Resources.resources
+C:\Users\PC\Desktop\10A bil.Deniz Arda\MailDogrulama\MailDogrulama\obj\Debug\MailDogrulama.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\10A bil.Deniz Arda\MailDogrulama\MailDogrulama\obj\Debug\MailDogrulama.exe
+C:\Users\PC\Desktop\10A bil.Deniz Arda\MailDogrulama\MailDogrulama\obj\Debug\MailDogrulama.pdb
