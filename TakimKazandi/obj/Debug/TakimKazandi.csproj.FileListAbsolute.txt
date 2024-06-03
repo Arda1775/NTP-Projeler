@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\10A bil.Deniz Arda\TakimKazandi\TakimKazandi\bin\Debug\TakimKazandi.exe.config
+C:\Users\PC\Desktop\10A bil.Deniz Arda\TakimKazandi\TakimKazandi\obj\Debug\TakimKazandi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\10A bil.Deniz Arda\TakimKazandi\TakimKazandi\obj\Debug\TakimKazandi.Form1.resources
+C:\Users\PC\Desktop\10A bil.Deniz Arda\TakimKazandi\TakimKazandi\obj\Debug\TakimKazandi.Properties.Resources.resources
+C:\Users\PC\Desktop\10A bil.Deniz Arda\TakimKazandi\TakimKazandi\obj\Debug\TakimKazandi.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\10A bil.Deniz Arda\TakimKazandi\TakimKazandi\bin\Debug\TakimKazandi.exe
+C:\Users\PC\Desktop\10A bil.Deniz Arda\TakimKazandi\TakimKazandi\bin\Debug\TakimKazandi.pdb
+C:\Users\PC\Desktop\10A bil.Deniz Arda\TakimKazandi\TakimKazandi\obj\Debug\TakimKazandi.exe
+C:\Users\PC\Desktop\10A bil.Deniz Arda\TakimKazandi\TakimKazandi\obj\Debug\TakimKazandi.pdb

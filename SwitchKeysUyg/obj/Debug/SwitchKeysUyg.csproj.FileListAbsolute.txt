@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\NtP\SwitchKeysUyg\SwitchKeysUyg\bin\Debug\SwitchKeysUyg.exe.config
+C:\Users\PC\Desktop\NtP\SwitchKeysUyg\SwitchKeysUyg\bin\Debug\SwitchKeysUyg.exe
+C:\Users\PC\Desktop\NtP\SwitchKeysUyg\SwitchKeysUyg\bin\Debug\SwitchKeysUyg.pdb
+C:\Users\PC\Desktop\NtP\SwitchKeysUyg\SwitchKeysUyg\obj\Debug\SwitchKeysUyg.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\NtP\SwitchKeysUyg\SwitchKeysUyg\obj\Debug\SwitchKeysUyg.Form1.resources
+C:\Users\PC\Desktop\NtP\SwitchKeysUyg\SwitchKeysUyg\obj\Debug\SwitchKeysUyg.Properties.Resources.resources
+C:\Users\PC\Desktop\NtP\SwitchKeysUyg\SwitchKeysUyg\obj\Debug\SwitchKeysUyg.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\NtP\SwitchKeysUyg\SwitchKeysUyg\obj\Debug\SwitchKeysUyg.exe
+C:\Users\PC\Desktop\NtP\SwitchKeysUyg\SwitchKeysUyg\obj\Debug\SwitchKeysUyg.pdb
