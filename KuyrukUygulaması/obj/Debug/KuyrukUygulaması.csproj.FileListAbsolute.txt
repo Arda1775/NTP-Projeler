@@ -1,0 +1,9 @@
+G:\projeler\KuyrukUygulaması\KuyrukUygulaması\bin\Debug\KuyrukUygulaması.exe.config
+G:\projeler\KuyrukUygulaması\KuyrukUygulaması\bin\Debug\KuyrukUygulaması.exe
+G:\projeler\KuyrukUygulaması\KuyrukUygulaması\bin\Debug\KuyrukUygulaması.pdb
+G:\projeler\KuyrukUygulaması\KuyrukUygulaması\obj\Debug\KuyrukUygulaması.csprojResolveAssemblyReference.cache
+G:\projeler\KuyrukUygulaması\KuyrukUygulaması\obj\Debug\KuyrukUygulaması.Form1.resources
+G:\projeler\KuyrukUygulaması\KuyrukUygulaması\obj\Debug\KuyrukUygulaması.Properties.Resources.resources
+G:\projeler\KuyrukUygulaması\KuyrukUygulaması\obj\Debug\KuyrukUygulaması.csproj.GenerateResource.Cache
+G:\projeler\KuyrukUygulaması\KuyrukUygulaması\obj\Debug\KuyrukUygulaması.exe
+G:\projeler\KuyrukUygulaması\KuyrukUygulaması\obj\Debug\KuyrukUygulaması.pdb

@@ -1,0 +1,6 @@
+G:\projeler\InterfaceUygulamasi\InterfaceUygulamasi\bin\Debug\InterfaceUygulamasi.exe.config
+G:\projeler\InterfaceUygulamasi\InterfaceUygulamasi\obj\Debug\InterfaceUygulamasi.csprojResolveAssemblyReference.cache
+G:\projeler\InterfaceUygulamasi\InterfaceUygulamasi\bin\Debug\InterfaceUygulamasi.exe
+G:\projeler\InterfaceUygulamasi\InterfaceUygulamasi\bin\Debug\InterfaceUygulamasi.pdb
+G:\projeler\InterfaceUygulamasi\InterfaceUygulamasi\obj\Debug\InterfaceUygulamasi.exe
+G:\projeler\InterfaceUygulamasi\InterfaceUygulamasi\obj\Debug\InterfaceUygulamasi.pdb
