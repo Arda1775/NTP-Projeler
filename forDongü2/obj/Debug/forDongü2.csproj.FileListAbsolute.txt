@@ -1,0 +1,9 @@
+G:\projeler\forDongü2\forDongü2\bin\Debug\forDongü2.exe.config
+G:\projeler\forDongü2\forDongü2\bin\Debug\forDongü2.exe
+G:\projeler\forDongü2\forDongü2\bin\Debug\forDongü2.pdb
+G:\projeler\forDongü2\forDongü2\obj\Debug\forDongü2.csprojResolveAssemblyReference.cache
+G:\projeler\forDongü2\forDongü2\obj\Debug\forDongü2.Form1.resources
+G:\projeler\forDongü2\forDongü2\obj\Debug\forDongü2.Properties.Resources.resources
+G:\projeler\forDongü2\forDongü2\obj\Debug\forDongü2.csproj.GenerateResource.Cache
+G:\projeler\forDongü2\forDongü2\obj\Debug\forDongü2.exe
+G:\projeler\forDongü2\forDongü2\obj\Debug\forDongü2.pdb

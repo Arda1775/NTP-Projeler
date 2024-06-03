@@ -1,0 +1,9 @@
+G:\projeler\forcalisma2\forcalisma2\bin\Debug\forcalisma2.exe.config
+G:\projeler\forcalisma2\forcalisma2\bin\Debug\forcalisma2.exe
+G:\projeler\forcalisma2\forcalisma2\bin\Debug\forcalisma2.pdb
+G:\projeler\forcalisma2\forcalisma2\obj\Debug\forcalisma2.Form1.resources
+G:\projeler\forcalisma2\forcalisma2\obj\Debug\forcalisma2.Properties.Resources.resources
+G:\projeler\forcalisma2\forcalisma2\obj\Debug\forcalisma2.csproj.GenerateResource.Cache
+G:\projeler\forcalisma2\forcalisma2\obj\Debug\forcalisma2.exe
+G:\projeler\forcalisma2\forcalisma2\obj\Debug\forcalisma2.pdb
+G:\projeler\forcalisma2\forcalisma2\obj\Debug\forcalisma2.csprojResolveAssemblyReference.cache
