@@ -1,0 +1,6 @@
+G:\projeler\InterfaceHayvanUygulaması\InterfaceHayvanUygulaması\bin\Debug\InterfaceHayvanUygulaması.exe.config
+G:\projeler\InterfaceHayvanUygulaması\InterfaceHayvanUygulaması\obj\Debug\InterfaceHayvanUygulaması.csprojResolveAssemblyReference.cache
+G:\projeler\InterfaceHayvanUygulaması\InterfaceHayvanUygulaması\bin\Debug\InterfaceHayvanUygulaması.exe
+G:\projeler\InterfaceHayvanUygulaması\InterfaceHayvanUygulaması\bin\Debug\InterfaceHayvanUygulaması.pdb
+G:\projeler\InterfaceHayvanUygulaması\InterfaceHayvanUygulaması\obj\Debug\InterfaceHayvanUygulaması.exe
+G:\projeler\InterfaceHayvanUygulaması\InterfaceHayvanUygulaması\obj\Debug\InterfaceHayvanUygulaması.pdb
