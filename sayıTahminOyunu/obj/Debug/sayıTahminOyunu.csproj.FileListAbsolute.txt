@@ -1,0 +1,9 @@
+G:\sayıTahminOyunu\sayıTahminOyunu\bin\Debug\sayıTahminOyunu.exe.config
+G:\sayıTahminOyunu\sayıTahminOyunu\bin\Debug\sayıTahminOyunu.exe
+G:\sayıTahminOyunu\sayıTahminOyunu\bin\Debug\sayıTahminOyunu.pdb
+G:\sayıTahminOyunu\sayıTahminOyunu\obj\Debug\sayıTahminOyunu.csprojResolveAssemblyReference.cache
+G:\sayıTahminOyunu\sayıTahminOyunu\obj\Debug\sayıTahminOyunu.Form1.resources
+G:\sayıTahminOyunu\sayıTahminOyunu\obj\Debug\sayıTahminOyunu.Properties.Resources.resources
+G:\sayıTahminOyunu\sayıTahminOyunu\obj\Debug\sayıTahminOyunu.csproj.GenerateResource.Cache
+G:\sayıTahminOyunu\sayıTahminOyunu\obj\Debug\sayıTahminOyunu.exe
+G:\sayıTahminOyunu\sayıTahminOyunu\obj\Debug\sayıTahminOyunu.pdb
