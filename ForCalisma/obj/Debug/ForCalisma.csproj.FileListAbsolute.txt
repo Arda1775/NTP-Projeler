@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\NtP\ForCalisma\ForCalisma\bin\Debug\ForCalisma.exe.config
+C:\Users\PC\Desktop\NtP\ForCalisma\ForCalisma\obj\Debug\ForCalisma.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\NtP\ForCalisma\ForCalisma\obj\Debug\ForCalisma.Form1.resources
+C:\Users\PC\Desktop\NtP\ForCalisma\ForCalisma\obj\Debug\ForCalisma.Properties.Resources.resources
+C:\Users\PC\Desktop\NtP\ForCalisma\ForCalisma\obj\Debug\ForCalisma.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\NtP\ForCalisma\ForCalisma\bin\Debug\ForCalisma.exe
+C:\Users\PC\Desktop\NtP\ForCalisma\ForCalisma\bin\Debug\ForCalisma.pdb
+C:\Users\PC\Desktop\NtP\ForCalisma\ForCalisma\obj\Debug\ForCalisma.exe
+C:\Users\PC\Desktop\NtP\ForCalisma\ForCalisma\obj\Debug\ForCalisma.pdb
+G:\projeler\ForCalisma\ForCalisma\bin\Debug\ForCalisma.exe.config
+G:\projeler\ForCalisma\ForCalisma\obj\Debug\ForCalisma.exe
+G:\projeler\ForCalisma\ForCalisma\obj\Debug\ForCalisma.pdb
