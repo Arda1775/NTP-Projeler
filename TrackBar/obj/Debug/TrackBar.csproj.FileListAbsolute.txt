@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\calisma\TrackBar\TrackBar\bin\Debug\TrackBar.exe.config
+C:\Users\PC\Desktop\calisma\TrackBar\TrackBar\bin\Debug\TrackBar.exe
+C:\Users\PC\Desktop\calisma\TrackBar\TrackBar\bin\Debug\TrackBar.pdb
+C:\Users\PC\Desktop\calisma\TrackBar\TrackBar\obj\Debug\TrackBar.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\calisma\TrackBar\TrackBar\obj\Debug\TrackBar.Form1.resources
+C:\Users\PC\Desktop\calisma\TrackBar\TrackBar\obj\Debug\TrackBar.Properties.Resources.resources
+C:\Users\PC\Desktop\calisma\TrackBar\TrackBar\obj\Debug\TrackBar.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\calisma\TrackBar\TrackBar\obj\Debug\TrackBar.exe
+C:\Users\PC\Desktop\calisma\TrackBar\TrackBar\obj\Debug\TrackBar.pdb
+G:\projeler\TrackBar\TrackBar\bin\Debug\TrackBar.exe.config
+G:\projeler\TrackBar\TrackBar\obj\Debug\TrackBar.exe
+G:\projeler\TrackBar\TrackBar\obj\Debug\TrackBar.pdb
