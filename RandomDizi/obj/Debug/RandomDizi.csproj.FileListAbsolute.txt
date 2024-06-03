@@ -1,0 +1,9 @@
+G:\projeler\RandomDizi\RandomDizi\bin\Debug\RandomDizi.exe.config
+G:\projeler\RandomDizi\RandomDizi\obj\Debug\RandomDizi.csprojResolveAssemblyReference.cache
+G:\projeler\RandomDizi\RandomDizi\obj\Debug\RandomDizi.Form1.resources
+G:\projeler\RandomDizi\RandomDizi\obj\Debug\RandomDizi.Properties.Resources.resources
+G:\projeler\RandomDizi\RandomDizi\obj\Debug\RandomDizi.csproj.GenerateResource.Cache
+G:\projeler\RandomDizi\RandomDizi\bin\Debug\RandomDizi.exe
+G:\projeler\RandomDizi\RandomDizi\bin\Debug\RandomDizi.pdb
+G:\projeler\RandomDizi\RandomDizi\obj\Debug\RandomDizi.exe
+G:\projeler\RandomDizi\RandomDizi\obj\Debug\RandomDizi.pdb
